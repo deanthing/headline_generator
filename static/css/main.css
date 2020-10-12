@@ -1,0 +1,37 @@
+
+
+.lft {
+  padding-left: 5%;
+  padding-top: 3%;
+}
+
+
+.error {
+  color: red;
+  padding-bottom: 40px;
+  margin-bottom: 2%;
+}
+
+
+.jumbotron {
+  padding-bottom: 32px;
+}
+
+
+.top-form {
+  padding-top: 30vh;
+}
+
+.inp {
+  padding-left: 40%;
+  padding-top: 10%;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+}
+
+.outputs {
+  padding-top: 5%;
+}
