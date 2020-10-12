@@ -1,5 +1,5 @@
 .DS_Store
 static/.DS_Store
-__pychache__/
+__pycache__/
 venv/
 venv
